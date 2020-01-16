@@ -1,0 +1,2 @@
+really only use user orthoganal when your modeling
+when your putting stuff in a scene you should use user perspecitve
